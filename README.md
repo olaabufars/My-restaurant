@@ -1,3 +1,3 @@
 # My-restaurant
 task 2
-![image info](pictures/wire frame 2.png)
+![title](Images/wire frame 1.png)
